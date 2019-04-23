@@ -1,0 +1,10 @@
+.category-button {
+  font-size: 1.4rem;
+  background-color: mediumslateblue !important;
+  &:hover {
+    background-color: deepskyblue !important;
+  }
+  &:focus {
+    outline: 0;
+  }
+}

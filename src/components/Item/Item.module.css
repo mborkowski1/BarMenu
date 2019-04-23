@@ -1,0 +1,22 @@
+.beer-card {
+  max-width: 200px;
+}
+.beer-card .beer-img {
+  height: 300px;
+}
+
+.burger-card {
+  max-width: 250px;
+}
+.burger-card .burger-img {
+  height: 200px;
+}
+
+.snack-card {
+  max-width: 250px;
+}
+.snack-card .snack-img {
+  height: 200px;
+}
+
+/*# sourceMappingURL=Item.module.css.map */

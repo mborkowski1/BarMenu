@@ -1,0 +1,12 @@
+.category-button {
+  font-size: 1.4rem;
+  background-color: mediumslateblue !important;
+}
+.category-button:hover {
+  background-color: deepskyblue !important;
+}
+.category-button:focus {
+  outline: 0;
+}
+
+/*# sourceMappingURL=Menu.module.css.map */
